@@ -12,3 +12,4 @@ tokio = { path = "../tokio/", features = ["full"] }
 
 [dev-dependencies]
 rand = "0.8"
+stats = "0.0.1"
